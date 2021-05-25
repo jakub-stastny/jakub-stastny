@@ -2,14 +2,14 @@
   Unlike in other repos, README in Org mode format is not supported here.
 -->
 
-I'm a software developer, blogger, [illustrator](https://www.instagram.com/jakub.stastny.pt) and gardener. Let's talk life ?
+I'm a semi-retired software developer, blogger, [illustrator](https://www.instagram.com/jakub.stastny.pt) and gardener. Let's talk life ?
 
 # My tools of choice
 
 - Elm for the web, Common Lisp for anything else.
 - Emacs in EVIL mode, SLY and ParInfer.
 - Org mode for everything, including code (literate programming).
-- iPad Pro, Blink, Mosh & ZSH. Ubuntu VPS on DigitalOcean.
+- iPad Pro 11", Blink, Mosh & ZSH. Ubuntu VPS on DigitalOcean.
 - Scriptable for writing iPadOS widgets.
 - Apple Pencil & Procreate for illustrations.
 
