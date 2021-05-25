@@ -1,17 +1,20 @@
+<!--
+  Unlike in other repos, README in Org mode format is not supported here.
+-->
+
 I'm a software developer, blogger, [illustrator](https://www.instagram.com/jakub.stastny.pt) and gardener. Let's talk life ?
 
 # My tools of choice
 
-- TypeScript
-- Emacs with EVIL mode or iVim on iPad.
-- Org mode
-- ZSH
-- iPad Pro
-- Blink & Mosh.
-- Ubuntu VPS on DigitalOcean
-- Git
-- Swift & SwiftUI.
+- Elm for the web, Common Lisp for anything else.
+- Emacs in EVIL mode, SLY and ParInfer.
+- Org mode for everything, including code (literate programming).
+- iPad Pro, Blink, Mosh & ZSH. Ubuntu VPS on DigitalOcean.
+- Scriptable for writing iPadOS widgets.
 - Apple Pencil & Procreate for illustrations.
+
+<!--
+  As of now there's no way of contacting me. (Well, maybe Twitter.) Disabling the following for now:
 
 # Available for hire?
 
@@ -25,3 +28,4 @@ Just keep in mind that:
 # Available for colaboration?
 
 If you have a cool project and are looking for colaborators, I might be open to it – especially if it's something for iPadOS, which is where a lot of my interest lies these days.
+-->
