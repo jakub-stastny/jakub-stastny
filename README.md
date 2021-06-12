@@ -13,6 +13,10 @@ I'm a semi-retired software developer, blogger, [illustrator](https://www.instag
 - Scriptable for writing iPadOS widgets.
 - Apple Pencil & Procreate for illustrations.
 
+# Contact
+
+Please use [GitHub discussions](https://github.com/jakub-stastny/jakub-stastny/discussions) on this repository. I will provide a way to contact me directly once I launch [my blog](https://github.com/jakub-stastny/blog), but in the meantime, please, use the discussions. Cheers 
+
 <!--
   As of now there's no way of contacting me. (Well, maybe Twitter.) Disabling the following for now:
 
