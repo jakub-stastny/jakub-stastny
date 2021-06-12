@@ -13,6 +13,8 @@ I'm a semi-retired software developer, blogger, [illustrator](https://www.instag
 - Scriptable for writing iPadOS widgets.
 - Apple Pencil & Procreate for illustrations.
 
+Here is how I like to work:
+
 ![](how-i-work.png)
 
 # Contact
