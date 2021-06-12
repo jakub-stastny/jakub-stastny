@@ -15,14 +15,15 @@ I'm a semi-retired software developer, blogger, [illustrator](https://www.instag
 
 # Contact
 
-Please use [GitHub discussions](https://github.com/jakub-stastny/jakub-stastny/discussions) on this repository. I will provide a way to contact me directly once I launch [my blog](https://github.com/jakub-stastny/blog), but in the meantime, please, use the discussions. Cheers 
-
-<!--
-  As of now there's no way of contacting me. (Well, maybe Twitter.) Disabling the following for now:
+Please use [GitHub discussions](https://github.com/jakub-stastny/jakub-stastny/discussions) on this repository. I will provide a way to contact me directly once I launch [my blog](https://github.com/jakub-stastny/blog), but in the meantime, please, use the discussions. Cheers!
 
 # Available for hire?
 
-Potentially. If you have an interesting project you think I'd like, drop me a line.
+Potentially. If you have an interesting project you think I'd like, [get in touch](https://github.com/jakub-stastny/jakub-stastny/discussions).
+
+<!--drop me a line: link my form submit-->.
+
+I'm interesting in any functional programming language or Lisp.
 
 Just keep in mind that:
 
@@ -32,4 +33,3 @@ Just keep in mind that:
 # Available for colaboration?
 
 If you have a cool project and are looking for colaborators, I might be open to it – especially if it's something for iPadOS, which is where a lot of my interest lies these days.
--->
