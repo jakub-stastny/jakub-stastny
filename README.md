@@ -21,7 +21,7 @@ Please use [GitHub discussions](https://github.com/jakub-stastny/jakub-stastny/d
 
 Potentially. If you have an interesting project you think I'd like, [get in touch](https://github.com/jakub-stastny/jakub-stastny/discussions).
 
-<!--drop me a line: link my form submit-->.
+<!--drop me a line: link my form submit-->
 
 I'm interesting in any functional programming language or Lisp.
 
