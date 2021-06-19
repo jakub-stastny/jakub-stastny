@@ -34,7 +34,6 @@ I'm interesting in any functional programming language or Lisp.
 Just keep in mind that:
 
 - I live in Mexico and I'm not interested in relocation.
-- I'm not interested in a job. Project, maybe. Job, no.
 
 # Available for colaboration?
 
